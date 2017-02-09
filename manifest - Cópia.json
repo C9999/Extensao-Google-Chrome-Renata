@@ -1,0 +1,9 @@
+{
+ 	"name": "SmileNerdizinha",
+ 	"version": "1.0",
+ 	"description": "Sorria meu amor",
+	 "browser_action":{
+ 		"default_icon": "car.png",
+	 	"popup": "popup.html"
+}
+}
